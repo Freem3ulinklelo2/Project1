@@ -1,2360 +1,2576 @@
 [
   {
-        "channel_id": "1",
-    "serial_no": "1",
-    "tvg_language": "Hindi",
-    "channel_genre": "JØIN ŦG💙| Freem3ulinklelo2",
-    "channel_logo": "https://media-hosting.imagekit.io/f1040639ce7e4a83/IMG_20250504_164056_882.jpg?Expires=1840965400&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Qd3PWpgsIV6AfBSgLb1zvdn-hHWoql0Y9VVe6AbVUX3B7gSKzckF1W6sgJmyX2N4jFb4ojUUXGASktxPuYEzZb4AAW8FmcQbrGnJMn09czpEFfTlg9JVHU0UUqCz-XYzG6PE2y-dUCTWygPu488J60m0wvuzvzndLT4cCjaSklvMTMErZKiZIiEl8tvFw0ssRKVtAvI2INTFeiichsyw5C7owC8OHy4p7VkZ5YJLTMBe1U3meQBqOKAJsmHg-KRIiSw9nPCatckX~r5Kky2RvqrasjqUVpfp6dE9mmZO6ELFA-PmmQ-D~83AI7v3d~dRRD0mOVJokm7b6r5NQOt4Sg__",
-    "channel_name": "@Freem3ulinklelo2",
-    "channel_url": "https://media-hosting.imagekit.io/64c5100c5ff741c7/lv_0_20250420055018.mp4?Expires=1839716461&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ny8~ntXgD~aN85kTRGiW0t0Vua8a5JFW5nDpBva-BxaZOMBz6bmJrAX2BVM~6LfCgAeeEwfu6KstMoWI4ebXA9c-R7HLwPB2GjKvnpBGJob56Lgr3YetDtZBMY~fcFFo1~wh3LJz~2tkUSLiWgf2LgCtdxVktir9u3V~7126wxkYyGOCyFUd~BpfnV0IsmY9vTivGZk8mFloiFu-ODyHfotX1S0Pv5rLewjWA4kFusy4oNx2wSxb~yFP4h-bHp5Cc0R7--Wp8rxe4~ew2~P7yXPMaw0d26vyP28rXlAodUf4SmDbf56OmsKOhkz6b9UYTu1EMkHAqg1k5AoM1dE-dw__"
-  },
-  {
-    "channel_id": "0",
-    "serial_no": "0",
-    "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex🦁🐸INDIAN | KIDS Cartoon",
-    "channel_logo": "",
-    "channel_name": "***KIDS***",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=106148"
-  },
-  {
     "channel_id": "1",
     "serial_no": "1",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png",
-    "channel_name": "IN: Cartoon Network",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=150478"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "GLOBAL WINNIPEG 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2408"
   },
   {
     "channel_id": "2",
     "serial_no": "2",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",
-    "channel_name": "IN: Pogo",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=150483"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "GLOBAL NEWS REGINA 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2161"
   },
   {
     "channel_id": "3",
     "serial_no": "3",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png",
-    "channel_name": "IN: Cartoon Network HD+",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=153154"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "GLOBAL NEWS WINNIPEG 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2163"
   },
   {
     "channel_id": "4",
     "serial_no": "4",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://static.epg.best/in/SonyYAY.in.png",
-    "channel_name": "IN | Sony yay",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=26187"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "GLOBAL NEWS KINGSTON 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2165"
   },
   {
     "channel_id": "5",
     "serial_no": "5",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png",
-    "channel_name": "IN: Hungama**",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=150480"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CBC WINNIPEG 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2138"
   },
   {
     "channel_id": "6",
     "serial_no": "6",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png",
-    "channel_name": "IN: Nick",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=150482"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CBC REGINA 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2141"
   },
   {
     "channel_id": "7",
     "serial_no": "7",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",
-    "channel_name": "IND: Nick Junior",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=153156"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CBC WINDSOR 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2144"
   },
   {
     "channel_id": "8",
     "serial_no": "8",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png",
-    "channel_name": "Discovery kids",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=76723"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CTV WINNIPEG 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=15"
   },
   {
     "channel_id": "9",
     "serial_no": "9",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",
-    "channel_name": "IN: Disney Junior",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=153175"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CTV REGINA 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2132"
   },
   {
     "channel_id": "10",
     "serial_no": "10",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "KIDS: Chutti Tv",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=150479"
+    "channel_name": "INC TV 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2436"
   },
   {
     "channel_id": "11",
     "serial_no": "11",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png",
-    "channel_name": "IN | DISNEY HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167551"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CITY TV WINNIPEG 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2668"
   },
   {
     "channel_id": "12",
     "serial_no": "12",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://static.epg.best/in/NickHDPlus.in.png",
-    "channel_name": "IN: NICK SONIC",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=34011"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CNN INTERNATIONAL 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2151"
   },
   {
     "channel_id": "13",
     "serial_no": "13",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://static.epg.best/in/NickHDPlus.in.png",
-    "channel_name": "NICK HD+ [FHD]",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=76722"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RT INTERNATIONAL",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=44"
   },
   {
     "channel_id": "14",
     "serial_no": "14",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "http://b1g.fun/logos2/kids_zone.jpg",
-    "channel_name": "PK | Kids Zone+ HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=383066"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "FOX BUSINESS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1880"
   },
   {
     "channel_id": "15",
     "serial_no": "15",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg",
-    "channel_name": "24/7 MOTU PATLU 01",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=307079"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "COOKING CHANNEL 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=49"
   },
   {
     "channel_id": "16",
     "serial_no": "16",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png",
-    "channel_name": "24/7 MOTU PATLU 02",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=311373"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "WORLD FISHING",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=123"
   },
   {
     "channel_id": "17",
     "serial_no": "17",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://w7.pngwing.com/pngs/352/597/png-transparent-shiva-nickelodeon-sonic-cartoon-television-show-shiva-sports-equipment-fictional-character-pakdam-pakdai-thumbnail.png",
-    "channel_name": "24/7 SHIVA",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=342074"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "SKY LIVING",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=136"
   },
   {
     "channel_id": "18",
     "serial_no": "18",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "24/7 CHUCHU TV",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=340807"
+    "channel_name": "DESTINATION AMERICA 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1893"
   },
   {
     "channel_id": "19",
     "serial_no": "19",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Baalveer_Returns_Title_Card.jpg/220px-Baalveer_Returns_Title_Card.jpg",
-    "channel_name": "24/7 Baal Veer",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=340809"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "EPIX DRIVE-IN 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2294"
   },
   {
     "channel_id": "20",
     "serial_no": "20",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://m.media-amazon.com/images/M/MV5BNmFlODk2ZmEtMWE5MC00Nzg5LWE3ODMtMzViYTRhNjdjMjgzXkEyXkFqcGdeQXVyNjEyNjM1MjY@._V1_.jpg",
-    "channel_name": "24/7 Chacha Bhatija",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=311774"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CINEMAX 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=169"
   },
   {
     "channel_id": "21",
     "serial_no": "21",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "http://logo.opplextv.com/logo/WowKidsAction.png",
-    "channel_name": "24/7 Wow Kids Action",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=314753"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CINEMAX 4K WEST",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2278"
   },
   {
     "channel_id": "22",
     "serial_no": "22",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "http://logo.opplextv.com/logo/VirTheRobotBoy.png",
-    "channel_name": "24/7 Vir The Robot Boy",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=314754"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "STARZ CINEMA 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=185"
   },
   {
     "channel_id": "23",
     "serial_no": "23",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png",
-    "channel_name": "24/7 KIDS | DORAEMON",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=388459"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "STARZ IN BLACK 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2280"
   },
   {
     "channel_id": "24",
     "serial_no": "24",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "KIDS: PINK PANTHER 24/7",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=301503"
+    "channel_name": "SKY CINEMA FAMILY 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=221"
   },
   {
     "channel_id": "25",
     "serial_no": "25",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "KIDS: CHU CHU TV 24/7",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=301502"
+    "channel_name": "NICK HD INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=240"
   },
   {
     "channel_id": "26",
     "serial_no": "26",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "KIDS: Sonic 24/7",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=301500"
+    "channel_name": "WILD BRAIN TV 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2544"
   },
   {
     "channel_id": "27",
     "serial_no": "27",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "KIDS: MR BEAN (CARTOON) 24/7",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=301501"
+    "channel_name": "DISNEY HD INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2546"
   },
   {
     "channel_id": "28",
     "serial_no": "28",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "KIDS: CoComelon TV 24/7",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=301499"
+    "channel_name": "CARTOON NETWORK INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=249"
   },
   {
     "channel_id": "29",
     "serial_no": "29",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "24/7 Kids: All Hail King Julien_ Exiled",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=301504"
+    "channel_name": "POGO INDIA - HINDI",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=250"
   },
   {
     "channel_id": "30",
     "serial_no": "30",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "24/7 Kids: Rick And Morty",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=301505"
+    "channel_name": "HUNGAMA TV INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=251"
   },
   {
     "channel_id": "31",
     "serial_no": "31",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "24/7 Kids: Masha and the Bear",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=301506"
+    "channel_name": "NICK JR INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2029"
   },
   {
     "channel_id": "32",
     "serial_no": "32",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "24/7 Kids: Little Baby Bum",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=301507"
+    "channel_name": "BEIN SPORTS USA 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2212"
   },
   {
     "channel_id": "33",
     "serial_no": "33",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "24/7 Kids: The Boss Baby_ Back in Business",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=301508"
+    "channel_name": "BEIN SPORTS SPANISH HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2585"
   },
   {
     "channel_id": "34",
     "serial_no": "34",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "24/7 Kids: Peppa Pig",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=301509"
+    "channel_name": "BEIN SPORTS LALIGA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2586"
   },
   {
     "channel_id": "35",
     "serial_no": "35",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "24/7 Kids: Blippi",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=301510"
+    "channel_name": "STAR SPORTS 1 HINDI 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1965"
   },
   {
     "channel_id": "36",
     "serial_no": "36",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "24/7 Kids: Kids: Gabby_s Dollhouse",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=301511"
+    "channel_name": "SKY SPORTS MAIN 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1959"
   },
   {
     "channel_id": "37",
     "serial_no": "37",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "Oggy and the Cockroaches Hindi",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=308282"
+    "channel_name": "RACING CHANNEL 4K UK",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=317"
   },
   {
     "channel_id": "38",
     "serial_no": "38",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/f/f9/Chhota_Bheem.jpg",
-    "channel_name": "24/7 Chhota Bheem",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=315401"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "FANDUEL RACING 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2745"
   },
   {
     "channel_id": "39",
     "serial_no": "39",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png",
-    "channel_name": "24/7 Tom & Jerry",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=329247"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "BEIN SPORT 1 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=326"
   },
   {
     "channel_id": "40",
     "serial_no": "40",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://e7.pngegg.com/pngimages/578/87/png-clipart-scooby-doo-mystery-scooby-doo-velma-dinkley-youtube-scoobydoo-text-logo.png",
-    "channel_name": "24/7 Scooby-Doo",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=329248"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "BEIN SPORT 2 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=327"
   },
   {
     "channel_id": "41",
     "serial_no": "41",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "24/7 Booba",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=340803"
+    "channel_name": "BEIN SPORT 3 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=328"
   },
   {
     "channel_id": "42",
     "serial_no": "42",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "24/7 KIDS SONGS HINDI",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=340802"
+    "channel_name": "BEIN SPORT 4 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=329"
   },
   {
     "channel_id": "43",
     "serial_no": "43",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "24/7 BabyBus | Nursery Rhymes",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=340804"
+    "channel_name": "BEIN SPORT 5 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=330"
   },
   {
     "channel_id": "44",
     "serial_no": "44",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png",
-    "channel_name": "24/7 KIDS | MOV HINDI",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=362998"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "BEIN SPORT 6 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=331"
   },
   {
     "channel_id": "45",
     "serial_no": "45",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png",
-    "channel_name": "24/7 KIDS | MOVIES",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=362999"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "BEIN SPORT 7 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=332"
   },
   {
     "channel_id": "46",
     "serial_no": "46",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png",
-    "channel_name": "24/7 KIDS | MOVIES ENG 01",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=363000"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "BEIN SPORT 8 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2605"
   },
   {
     "channel_id": "47",
     "serial_no": "47",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | KIDS Cartoon",
-    "channel_logo": "https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png",
-    "channel_name": "24/7 KIDS | MOVIES ENG 02",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=363001"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "BEIN SPORT 9 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2606"
   },
   {
     "channel_id": "48",
     "serial_no": "48",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "*** WellCome ***",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=26014"
+    "channel_name": "BEIN SPORT 1 EN 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2209"
   },
   {
     "channel_id": "49",
     "serial_no": "49",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
-    "channel_name": "PK: PTV SPORTS",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167567"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "BEIN SPORT 2 EN 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2608"
   },
   {
     "channel_id": "50",
     "serial_no": "50",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
-    "channel_name": "PK: PTV SPORTS HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=217968"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "BEIN EXTRA 1 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2609"
   },
   {
     "channel_id": "51",
     "serial_no": "51",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png",
-    "channel_name": "PK | Geo Super HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167568"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "BEIN EXTRA 2 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2610"
   },
   {
     "channel_id": "52",
     "serial_no": "52",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg",
-    "channel_name": "PK: TEN SPORTS",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167569"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "BEIN EXTRA 3 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2611"
   },
   {
     "channel_id": "53",
     "serial_no": "53",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/5/5f/ICC_T20_World_Cup_2022_Logo.png",
-    "channel_name": "T20 WORLD CUP 01",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=219643"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "HINDI HITS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1958"
   },
   {
     "channel_id": "54",
     "serial_no": "54",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "http://opplextv.com/logo/ASPORTSARY.jfif",
-    "channel_name": "PK: A Sports HD (Server 1)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=219689"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "PREMIUM HINDI MOVIES 1 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2537"
   },
   {
     "channel_id": "55",
     "serial_no": "55",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "http://opplextv.com/logo/ASPORTSARY.jfif",
-    "channel_name": "PK: A Sports HD (Server 2)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=221417"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "PREMIUM HINDI MOVIES 2 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2536"
   },
   {
     "channel_id": "56",
     "serial_no": "56",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://static.epg.best/in/SonyTEN1.in.png",
-    "channel_name": "IN | SONY TEN 1 HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167570"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "PREMIUM HINDI MOVIES 3 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2535"
   },
   {
     "channel_id": "57",
     "serial_no": "57",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://static.epg.best/in/SonyTEN2.in.png",
-    "channel_name": "IN | SONY TEN 2 HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167571"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "PREMIUM HINDI MOVIES 4 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2534"
   },
   {
     "channel_id": "58",
     "serial_no": "58",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://static.epg.best/in/SonyTEN3.in.png",
-    "channel_name": "IN | SONY TEN 3 HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167572"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "PREMIUM HINDI MOVIES 5 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2532"
   },
   {
     "channel_id": "59",
     "serial_no": "59",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png",
-    "channel_name": "IN | SONY TEN 4 HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167595"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "PREMIUM HINDI MOVIES 6 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2531"
   },
   {
     "channel_id": "60",
     "serial_no": "60",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",
-    "channel_name": "IN | SONY TEN 5 HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167580"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "PREMIUM HINDI MOVIES 7 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2530"
   },
   {
     "channel_id": "61",
     "serial_no": "61",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://www.pngkey.com/png/detail/244-2446295_pakistan-ten-sports-channel-logo.png",
-    "channel_name": "CRI: Ten Cricket",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167587"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZEE CINEMA 4K USA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=388"
   },
   {
     "channel_id": "62",
     "serial_no": "62",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://static.epg.best/cn/StarSports1.cn.png",
-    "channel_name": "IN: STAR SPORTS 1 Hindi",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167573"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZEE CINEMA 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=389"
   },
   {
     "channel_id": "63",
     "serial_no": "63",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "http://s3.i3ns.net/cs/etc/blank-icon.png",
-    "channel_name": "IN: Star Sports tamil 1",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167574"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZEE CINEMA 4K APAC",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1818"
   },
   {
     "channel_id": "64",
     "serial_no": "64",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://static.epg.best/cn/StarSports1.cn.png",
-    "channel_name": "IN | Star Sports 1 HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167575"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "STAR GOLD 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=390"
   },
   {
     "channel_id": "65",
     "serial_no": "65",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://static.epg.best/in/StarSports2.in.png",
-    "channel_name": "IN | Star Sports 2 HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167576"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "STAR GOLD SELECT 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=391"
   },
   {
     "channel_id": "66",
     "serial_no": "66",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png",
-    "channel_name": "IN | Star Sports 3 HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167577"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "SONY PIX 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=392"
   },
   {
     "channel_id": "67",
     "serial_no": "67",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://static.epg.best/in/StarSportsSelect1.in.png",
-    "channel_name": "IN | STAR SPORTS SELECT 1",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167578"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "AND MOVIES 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=394"
   },
   {
     "channel_id": "68",
     "serial_no": "68",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://static.epg.best/in/StarSportsSelect2.in.png",
-    "channel_name": "IN | STAR SPORTS SELECT 2",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167579"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CINEPLEX 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1702"
   },
   {
     "channel_id": "69",
     "serial_no": "69",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg",
-    "channel_name": "IN: Sports 18 (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=382205"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZEE TV 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=400"
   },
   {
     "channel_id": "70",
     "serial_no": "70",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://static.epg.best/my/AstroOnDemand361.my.png",
-    "channel_name": "IN | Astro Cricket HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167581"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "SONY 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=404"
   },
   {
     "channel_id": "71",
     "serial_no": "71",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png",
-    "channel_name": "SuperSport Cricket",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167592"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "STAR PLUS 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=409"
   },
   {
     "channel_id": "72",
     "serial_no": "72",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",
-    "channel_name": "AU: FOX CRICKET 501",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167593"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "COLORS 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=415"
   },
   {
     "channel_id": "73",
     "serial_no": "73",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky-sports-main-cricket.jpg",
-    "channel_name": "UK: Sky Sports Cricket",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167594"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "AND TV 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1699"
   },
   {
     "channel_id": "74",
     "serial_no": "74",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://5gtv.online:2053/logo/willowxtra1.png",
-    "channel_name": "IN | Willow Xtra",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167582"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "STAR BHARAT 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=420"
   },
   {
     "channel_id": "75",
     "serial_no": "75",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://static.epg.best/us/WillowCricket.us.png",
-    "channel_name": "IN: Willow Cricket HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167583"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "SAB TV 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=424"
   },
   {
     "channel_id": "76",
     "serial_no": "76",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/13-HD.png/120px-13-HD.png",
-    "channel_name": "BS | beIN SPORT CRICKET",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167584"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "TRAVELXP INDIA 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1712"
   },
   {
     "channel_id": "77",
     "serial_no": "77",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png",
-    "channel_name": "IN: EUROSPORT HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167585"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MINIPLEX 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1725"
   },
   {
     "channel_id": "78",
     "serial_no": "78",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "http://s3.i3ns.net/cs/etc/blank-icon.png",
-    "channel_name": "IN: 1SPORTS",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167586"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CINEPLEX 4K USA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1704"
   },
   {
     "channel_id": "79",
     "serial_no": "79",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg",
-    "channel_name": "IN: DD Sports",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167588"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RISHTEY INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=428"
   },
   {
     "channel_id": "80",
     "serial_no": "80",
     "tvg_language": "Hindi",
-    "channel_genre": "CRICKET",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
-    "channel_name": "T-SPORTS",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=167590"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "FOOD FOOD INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=437"
   },
   {
     "channel_id": "81",
     "serial_no": "81",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "***IND: DRAMA (4K ULTRA HD)***",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109946"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZEE CINEMA USA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1819"
   },
   {
     "channel_id": "82",
     "serial_no": "82",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "Colors (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109947"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZEE CINEMA INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1820"
   },
   {
     "channel_id": "83",
     "serial_no": "83",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "SONY SET (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109948"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZEE CINEMA ME",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1821"
   },
   {
     "channel_id": "84",
     "serial_no": "84",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "Star Plus (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109949"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZEE CINEMA UK",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=443"
   },
   {
     "channel_id": "85",
     "serial_no": "85",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "ZEE TV (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109950"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "SONY MAX INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=445"
   },
   {
     "channel_id": "86",
     "serial_no": "86",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "STAR BHARAT (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109951"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZEE ANMOL CINEMA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1827"
   },
   {
     "channel_id": "87",
     "serial_no": "87",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "&tv (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109952"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZEE BOLLYWOOD INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1828"
   },
   {
     "channel_id": "88",
     "serial_no": "88",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "SONY SAB (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109953"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CINEMA TV",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1833"
   },
   {
     "channel_id": "89",
     "serial_no": "89",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "***IND: MOVIES (4K ULTRA HD)***",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109954"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "B4U MOVIES INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=458"
   },
   {
     "channel_id": "90",
     "serial_no": "90",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "&pictures (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109955"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "COLORS CINEPLEX INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2552"
   },
   {
     "channel_id": "91",
     "serial_no": "91",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "SONY MAX (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109957"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "COLORS CINEPLEX USA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2574"
   },
   {
     "channel_id": "92",
     "serial_no": "92",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "ZEE CINEMA (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109958"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "COLORS CINEPLEX UK",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2556"
   },
   {
     "channel_id": "93",
     "serial_no": "93",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "Star GOLD (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109959"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "JUS HINDI HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2722"
   },
   {
     "channel_id": "94",
     "serial_no": "94",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "Star Gold Select (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109960"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "COLORS INFINITY 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1830"
   },
   {
     "channel_id": "95",
     "serial_no": "95",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "Movies_active (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109961"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "THE Q INDIA 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1831"
   },
   {
     "channel_id": "96",
     "serial_no": "96",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "& flix (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109962"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "GOLDMINES",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2261"
   },
   {
     "channel_id": "97",
     "serial_no": "97",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "& Prive (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109963"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "GOLDMINES MOVIES",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2262"
   },
   {
     "channel_id": "98",
     "serial_no": "98",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "& Xplorer (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109964"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "GOLDMINES BOLLYWOOD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2573"
   },
   {
     "channel_id": "99",
     "serial_no": "99",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "MN+ (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109965"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "INDIA TODAY",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=474"
   },
   {
     "channel_id": "100",
     "serial_no": "100",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "SONY PIX (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109966"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NDTV INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=475"
   },
   {
     "channel_id": "101",
     "serial_no": "101",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "Movies Now (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109968"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "INDIA TV NEWS",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=477"
   },
   {
     "channel_id": "102",
     "serial_no": "102",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "STAR MOVIES (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109970"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "INDIA NEWS",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1839"
   },
   {
     "channel_id": "103",
     "serial_no": "103",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "STAR WORLD (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109971"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZEE BUSINESS",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=482"
   },
   {
     "channel_id": "104",
     "serial_no": "104",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "DISCOVERY (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109974"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NEWS 18 INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=487"
   },
   {
     "channel_id": "105",
     "serial_no": "105",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "ANIMAL PLANET (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109975"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NEWS 18 HINDI",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1956"
   },
   {
     "channel_id": "106",
     "serial_no": "106",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "NAT Geo Wild (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109976"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZOOM INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=497"
   },
   {
     "channel_id": "107",
     "serial_no": "107",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "National GEO (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109977"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZING TV US",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=498"
   },
   {
     "channel_id": "108",
     "serial_no": "108",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "Sony BBC Ear (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109978"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZING TV INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=500"
   },
   {
     "channel_id": "109",
     "serial_no": "109",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "FOX Life (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109980"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZING TV UK",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=499"
   },
   {
     "channel_id": "110",
     "serial_no": "110",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "IN: COLORS CINEPLEX (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206315"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "B4U MUSIC INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1822"
   },
   {
     "channel_id": "111",
     "serial_no": "111",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | 4K ULTRA HD",
-    "channel_logo": "http://logo.opplextv.com/logo/4Klogo.png",
-    "channel_name": "IN: Jalsha Movies (4K)*",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206320"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MUSIC INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1815"
   },
   {
     "channel_id": "112",
     "serial_no": "112",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png",
-    "channel_name": "IN | BBC EART HINDI",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206278"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "BINDAAS TV",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1816"
   },
   {
     "channel_id": "113",
     "serial_no": "113",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png",
-    "channel_name": "IN | BBC EART ENG",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=383184"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "HINDU SABHA TEMPLE HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2239"
   },
   {
     "channel_id": "114",
     "serial_no": "114",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png",
-    "channel_name": "IND: Animal Planet Hindi",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206282"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MATA KI BETEIN 1 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=515"
   },
   {
     "channel_id": "115",
     "serial_no": "115",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png",
-    "channel_name": "IN: Animal Planet FHD ENG",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206283"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MATA KI BETEIN 2 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=516"
   },
   {
     "channel_id": "116",
     "serial_no": "116",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png",
-    "channel_name": "IND: Nat Geo HD Hindi",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206285"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "AASTHA TV INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=524"
   },
   {
     "channel_id": "117",
     "serial_no": "117",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png",
-    "channel_name": "IND: Nat Geo HD ENG",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=383183"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "HINDU SAMAJ TEMPLE HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2676"
   },
   {
     "channel_id": "118",
     "serial_no": "118",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",
-    "channel_name": "IN | Nat Geo Wild HINDI",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206286"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "HINDU HERITAGE CENTRE CANADA HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2200"
   },
   {
     "channel_id": "119",
     "serial_no": "119",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",
-    "channel_name": "IN | Nat Geo Wild FHD ENG",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206587"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "DISCOVERY 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1726"
   },
   {
     "channel_id": "120",
     "serial_no": "120",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png",
-    "channel_name": "IND: Discovery Hindi",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206287"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ANIMAL PLANET WORLD 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1728"
   },
   {
     "channel_id": "121",
     "serial_no": "121",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png",
-    "channel_name": "IND: Discovery Science",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206289"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "GURDWARA SINGH SABHA MALTON HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2149"
   },
   {
     "channel_id": "122",
     "serial_no": "122",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png",
-    "channel_name": "IND: Investigation Discovery Hindi",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206291"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "GURDWARA KP WINDSOR HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2749"
   },
   {
     "channel_id": "123",
     "serial_no": "123",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",
-    "channel_name": "IND: Discovery Turbo",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206292"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "PUNJABI BEATS INT HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1850"
   },
   {
     "channel_id": "124",
     "serial_no": "124",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "IND: Travel XP Eng",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206279"
+    "channel_name": "PTC PUNJABI INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=555"
   },
   {
     "channel_id": "125",
     "serial_no": "125",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
-    "channel_logo": "https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg",
-    "channel_name": "IND: Travel_XP Hindi",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206280"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "IMAGINE TV HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2742"
   },
   {
     "channel_id": "126",
     "serial_no": "126",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png",
-    "channel_name": "IND: History 18 Hindi",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206294"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "PITAARA INT HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1927"
   },
   {
     "channel_id": "127",
     "serial_no": "127",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png",
-    "channel_name": "IN: History TV 18 FHD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206295"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MH1 INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=570"
   },
   {
     "channel_id": "128",
     "serial_no": "128",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
-    "channel_logo": "http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png",
-    "channel_name": "IND: Epic",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206296"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "INDIA NEWS PUNJAB",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1646"
   },
   {
     "channel_id": "129",
     "serial_no": "129",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "DOC | NAT GEO WILD Safari",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=363003"
+    "channel_name": "LIVING INDIA NEWS",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1648"
   },
   {
     "channel_id": "130",
     "serial_no": "130",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "DOC | Nat Geo Wild and Worlds Deadliest",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=363004"
+    "channel_name": "24/7 BHAI RANJIT SINGH DIWANS",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1639"
   },
   {
     "channel_id": "131",
     "serial_no": "131",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "DOC | Nat Geo Wild Newest Clips",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=363005"
+    "channel_name": "24/7 BHAI RANJIT SINGH KATHA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1640"
   },
   {
     "channel_id": "132",
     "serial_no": "132",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "DOC | Nat Geo Wild NEWS",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=363006"
+    "channel_name": "24/7 BHAI PINDER PAL SINGH KATHA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1641"
   },
   {
     "channel_id": "133",
     "serial_no": "133",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | DOCUMENTARY",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "DOC | Wildlife HINDI",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=363002"
+    "channel_name": "BHAINI SAHIB LIVE",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=604"
   },
   {
     "channel_id": "134",
     "serial_no": "134",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | SPORTS 4K (ULTRA HD)",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "***IND: SPORTS (4K ULTRA HD)***",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109982"
+    "channel_name": "TRUCKING TODAY TV",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=615"
   },
   {
     "channel_id": "135",
     "serial_no": "135",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | SPORTS 4K (ULTRA HD)",
-    "channel_logo": "http://openboxv8s.com/india/sony-ten1.png",
-    "channel_name": "Sony Ten 1 (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109983"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "BTV BROADCASTING HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2594"
   },
   {
     "channel_id": "136",
     "serial_no": "136",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | SPORTS 4K (ULTRA HD)",
-    "channel_logo": "http://openboxv8s.com/india/sony-ten2.png",
-    "channel_name": "Sony Ten 2 (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109984"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "US MEDIA INTERNATIONAL HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2755"
   },
   {
     "channel_id": "137",
     "serial_no": "137",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | SPORTS 4K (ULTRA HD)",
-    "channel_logo": "http://openboxv8s.com/india/sony-ten3.png",
-    "channel_name": "Sony Ten 3 (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109985"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ARY ZINDAGI PAK",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=628"
   },
   {
     "channel_id": "138",
     "serial_no": "138",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | SPORTS 4K (ULTRA HD)",
-    "channel_logo": "http://openboxv8s.com/india/star_sports_in_1_hindi.png",
-    "channel_name": "Star Sport 1 HINDI (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109986"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "BOL ENTERTAINMENT HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1674"
   },
   {
     "channel_id": "139",
     "serial_no": "139",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | SPORTS 4K (ULTRA HD)",
-    "channel_logo": "http://openboxv8s.com/india/star_sports_in_1_hindi.png",
-    "channel_name": "Star Sports 1 (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109987"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MADINA LIVE HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1920"
   },
   {
     "channel_id": "140",
     "serial_no": "140",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | SPORTS 4K (ULTRA HD)",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "Star Sports 2 (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109988"
+    "channel_name": "EXPRESS ENTERTAINMENT",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=677"
   },
   {
     "channel_id": "141",
     "serial_no": "141",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | SPORTS 4K (ULTRA HD)",
-    "channel_logo": "https://b1gchlogos.xyz/wp-content/uploads/2025/02/CT2025.png",
-    "channel_name": "STAR 4K",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=390407"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "AAJ ENTERTAINMENT",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=679"
   },
   {
     "channel_id": "142",
     "serial_no": "142",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | SPORTS 4K (ULTRA HD)",
-    "channel_logo": "http://openboxv8s.com/india/sony_six_in.jpg",
-    "channel_name": "SONY SIX (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109992"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "SINDH TV",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=687"
   },
   {
     "channel_id": "143",
     "serial_no": "143",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | SPORTS 4K (ULTRA HD)",
-    "channel_logo": "http://openboxv8s.com/india/star_sports_in_1_hindi.png",
-    "channel_name": "Star Sports Select 1 (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109993"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MINHAJ TV HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2603"
   },
   {
     "channel_id": "144",
     "serial_no": "144",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | SPORTS 4K (ULTRA HD)",
-    "channel_logo": "http://openboxv8s.com/india/star_sports2_in.jpg",
-    "channel_name": "Star Sports Select 2 (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=109994"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "SET ENTERTAINMENT HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2759"
   },
   {
     "channel_id": "145",
     "serial_no": "145",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | SPORTS 4K (ULTRA HD)",
-    "channel_logo": "https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png",
-    "channel_name": "IN: EUROPSPORT (4K)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206324"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "SINDH NEWS",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=704"
   },
   {
     "channel_id": "146",
     "serial_no": "146",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "***** IN | India *****",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66161"
+    "channel_name": "LIVING HOPE TV HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1765"
   },
   {
     "channel_id": "147",
     "serial_no": "147",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/sg/ZeeTV.sg.png",
-    "channel_name": "IN | Zee TV",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=221250"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "COLORS BANGLA HD INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=715"
   },
   {
     "channel_id": "148",
     "serial_no": "148",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/sg/ZeeTV.sg.png",
-    "channel_name": "IN | Zee TV HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66162"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "STAR JALSHA HD INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=717"
   },
   {
     "channel_id": "149",
     "serial_no": "149",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/sg/ZeeTV.sg.png",
-    "channel_name": "IN | Zee TV [FHD]",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66163"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "INDEPENDENT TV",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=731"
   },
   {
     "channel_id": "150",
     "serial_no": "150",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/gb/SonyEntertainmentAsia.uk.png",
-    "channel_name": "IN | Sony SET (TATAPLAY)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=221251"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZEE BANGLA CINEMA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=752"
   },
   {
     "channel_id": "151",
     "serial_no": "151",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/gb/SonyEntertainmentAsia.uk.png",
-    "channel_name": "IN | Sony SET HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66164"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "STAR VIJAY INDIA HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=778"
   },
   {
     "channel_id": "152",
     "serial_no": "152",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/gb/SonyEntertainmentAsia.uk.png",
-    "channel_name": "IN | Sony SET [FHD]",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66165"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "STAR VIJAY SUPER INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=774"
   },
   {
     "channel_id": "153",
     "serial_no": "153",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/nz/StarPlusHindi.nz.png",
-    "channel_name": "IN | Star Plus",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=221252"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "SUN TV INDIA HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=775"
   },
   {
     "channel_id": "154",
     "serial_no": "154",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/nz/StarPlusHindi.nz.png",
-    "channel_name": "IN | Star Plus HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66166"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "SUN MUSIC INDIA HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=780"
   },
   {
     "channel_id": "155",
     "serial_no": "155",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/nz/StarPlusHindi.nz.png",
-    "channel_name": "IN | Star Plus FHD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66208"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "KTV INDIA HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=781"
   },
   {
     "channel_id": "156",
     "serial_no": "156",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/gb/Colors.uk.png",
-    "channel_name": "IN | Colors",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=221254"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "JAYA MAX INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=787"
   },
   {
     "channel_id": "157",
     "serial_no": "157",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/gb/Colors.uk.png",
-    "channel_name": "IN | Colors HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66167"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RAJ TV INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=788"
   },
   {
     "channel_id": "158",
     "serial_no": "158",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/gb/Colors.uk.png",
-    "channel_name": "IN | Colors [FHD]",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66168"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZEE TAMIL INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=802"
   },
   {
     "channel_id": "159",
     "serial_no": "159",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/in/StarBharat.in.png",
-    "channel_name": "IN | Star Bharat",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=221255"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CAPTAIN TV",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=815"
   },
   {
     "channel_id": "160",
     "serial_no": "160",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/in/StarBharat.in.png",
-    "channel_name": "IN | Star Bharat HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66170"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CAPTAIN NEWS",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=817"
   },
   {
     "channel_id": "161",
     "serial_no": "161",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/in/StarBharat.in.png",
-    "channel_name": "IN | Star Bharat [FHD]",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66171"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "GEMINI MOVIES",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=824"
   },
   {
     "channel_id": "162",
     "serial_no": "162",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/in/SonySAB.in.png",
-    "channel_name": "IN | Sony Sab",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=221256"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "GEMINI TV",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=831"
   },
   {
     "channel_id": "163",
     "serial_no": "163",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/in/SonySAB.in.png",
-    "channel_name": "IN | Sony Sab HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66174"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "GEMINI TV US",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=832"
   },
   {
     "channel_id": "164",
     "serial_no": "164",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/in/SonySAB.in.png",
-    "channel_name": "IN | Sony Sab UK*",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66175"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "GEMINI COMEDY",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=833"
   },
   {
     "channel_id": "165",
     "serial_no": "165",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",
-    "channel_name": "IN: SONY SAB [FHD]",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=104194"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "JAIHIND TV",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=872"
   },
   {
     "channel_id": "166",
     "serial_no": "166",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/in/AndTV.in.png",
-    "channel_name": "IN | &Tv",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=221253"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "STAR PRAVAH HD INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=909"
   },
   {
     "channel_id": "167",
     "serial_no": "167",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/in/AndTV.in.png",
-    "channel_name": "IN | &Tv HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66172"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZEE MARATHI HD INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=911"
   },
   {
     "channel_id": "168",
     "serial_no": "168",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/in/AndTV.in.png",
-    "channel_name": "IN | &Tv [FHD]",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66173"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZEE TALKIES HD INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=910"
   },
   {
     "channel_id": "169",
     "serial_no": "169",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/in/ColorsRishtey.in.png",
-    "channel_name": "IN | Colors Rishtey",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66188"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "COLORS MARATHI HD INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=915"
   },
   {
     "channel_id": "170",
     "serial_no": "170",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/in/RishteyCineplex.in.png",
-    "channel_name": "IN: Color Cineplex SuperHits",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66199"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "COLORS CINEMA GUJARATI",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1862"
   },
   {
     "channel_id": "171",
     "serial_no": "171",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/in/ZeeAction.in.png",
-    "channel_name": "IN | ZEE ACTION",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66191"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "INDIA NEWS GUJARATI",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1868"
   },
   {
     "channel_id": "172",
     "serial_no": "172",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_pal.jpg",
-    "channel_name": "IN | Sony Pal",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=104192"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "INDIGENOUS TV",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2448"
   },
   {
     "channel_id": "173",
     "serial_no": "173",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/in/BigMagic.in.png",
-    "channel_name": "IND: BIG MAGIC",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=104198"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "GMA PINOY TV",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=951"
   },
   {
     "channel_id": "174",
     "serial_no": "174",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818",
-    "channel_name": "IND: B4U Kadak",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=104199"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ANC DATING",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=953"
   },
   {
     "channel_id": "175",
     "serial_no": "175",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg",
-    "channel_name": "IND: MANORANJAN TV",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=104203"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CNN PHILPINES",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=954"
   },
   {
     "channel_id": "176",
     "serial_no": "176",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png",
-    "channel_name": "IN | Zee Anmol",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66357"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "AFGHAN INT",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=976"
   },
   {
     "channel_id": "177",
     "serial_no": "177",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.epg.best/in/DDNational.in.png",
-    "channel_name": "IN: DD National",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=112975"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MEDINE TV",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=978"
   },
   {
     "channel_id": "178",
     "serial_no": "178",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/5/5b/ZeeTVCanadaLogo.png",
-    "channel_name": "IN: ZEE TV CANADA",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=112976"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "GHANA ENTERTAINMENT",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=990"
   },
   {
     "channel_id": "179",
     "serial_no": "179",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://img.indiaforums.com/channel/320x180/0/006-star-utsav.jpg",
-    "channel_name": "IN: STAR UTSAV",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=112977"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "BEIN SP",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=999"
   },
   {
     "channel_id": "180",
     "serial_no": "180",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "http://s3.i3ns.net/cs/etc/blank-icon.png",
-    "channel_name": "IND: DHAMAAL TV*",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=112978"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "HBO LATINO SP",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1007"
   },
   {
     "channel_id": "181",
     "serial_no": "181",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_WAH.png",
-    "channel_name": "IN | Sony Wah",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=112979"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "INTERECONOMIA TV",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1013"
   },
   {
     "channel_id": "182",
     "serial_no": "182",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Dabangg-TV_logo.jpg",
-    "channel_name": "IND: Dabangg",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206270"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "TELECINCO",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1018"
   },
   {
     "channel_id": "183",
     "serial_no": "183",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png",
-    "channel_name": "IN | ZEE AFLAM",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206277"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CANAL COCINA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1050"
   },
   {
     "channel_id": "184",
     "serial_no": "184",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg",
-    "channel_name": "IN: ZEE Bollywood",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=207200"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CANAL DCINE",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1061"
   },
   {
     "channel_id": "185",
     "serial_no": "185",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png",
-    "channel_name": "IN | BBO HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66277"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ROTANA CINEMA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1132"
   },
   {
     "channel_id": "186",
     "serial_no": "186",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bhojpuri_Cinema_logo.png",
-    "channel_name": "IND: Bhojpuri_Cinema",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=269091"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NILE CINEMA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1139"
   },
   {
     "channel_id": "187",
     "serial_no": "187",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "IND: BBO CLASSIC",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=308228"
+    "channel_name": "DUBAI RACING",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1154"
   },
   {
     "channel_id": "188",
     "serial_no": "188",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/2/24/Dangal-2.jpg",
-    "channel_name": "IN: Dangal 2",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=356002"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CINEMA PRO",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1176"
   },
   {
     "channel_id": "189",
     "serial_no": "189",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "https://images.sftcdn.net/images/t_app-icon-s/p/fe1331a5-f411-46a5-a24c-3af5172a60dc/2558617115/dangal-tv-live-series-hints-logo",
-    "channel_name": "IN: Dangal",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=355655"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CAIRO CINEMA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1210"
   },
   {
     "channel_id": "190",
     "serial_no": "190",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "http://b1g.fun/logos2/manoranjan_grand.jpg",
-    "channel_name": "IN: Manoranjan Grand",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=355999"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "AL JAZEERA INT",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1214"
   },
   {
     "channel_id": "191",
     "serial_no": "191",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "IN: B4U Bhojpuri",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=355988"
+    "channel_name": "PALESTINE LIVE",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1239"
   },
   {
     "channel_id": "192",
     "serial_no": "192",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
-    "channel_logo": "http://b1g.fun/logos2/shemarootv.jpg",
-    "channel_name": "IN: Shemaroo TV",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=355809"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "AL AOULAINTER",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1243"
   },
   {
     "channel_id": "193",
     "serial_no": "193",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | ENTERTAINMENT",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "IN: Colors Infinity FHD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=355571"
+    "channel_name": "PALESTINEALYAWM",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1259"
   },
   {
     "channel_id": "194",
     "serial_no": "194",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428",
-    "channel_name": "IN | STAR GOLD THRILLS",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=221258"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CINEMA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1260"
   },
   {
     "channel_id": "195",
     "serial_no": "195",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.epg.best/in/StarGold.in.png",
-    "channel_name": "IN | Star Gold HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66177"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "IPL 2025 1 4K - HINDI",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2011"
   },
   {
     "channel_id": "196",
     "serial_no": "196",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.epg.best/in/StarGold.in.png",
-    "channel_name": "IN | Star Gold [FHD]",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66178"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "STAR SPORTS 1 HINDI 4K*",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1966"
   },
   {
     "channel_id": "197",
     "serial_no": "197",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.epg.best/in/StarGoldSelect.in.png",
-    "channel_name": "IN | Star Gold Select",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=221257"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "TVP INFO",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1301"
   },
   {
     "channel_id": "198",
     "serial_no": "198",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.epg.best/in/StarGoldSelect.in.png",
-    "channel_name": "IN | Star Gold Select FHD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66176"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "KINO POLSKA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1332"
   },
   {
     "channel_id": "199",
     "serial_no": "199",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548",
-    "channel_name": "IND: Star Gold 2",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=106133"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ALEKINO",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1334"
   },
   {
     "channel_id": "200",
     "serial_no": "200",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/bn/3/39/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg",
-    "channel_name": "IN: STAR GOLD HD (TATASKY)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=112982"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "AMAZING",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1335"
   },
   {
     "channel_id": "201",
     "serial_no": "201",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.epg.best/in/AndPictures.in.png",
-    "channel_name": "IN | & Pictures",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=221260"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MINIMINI+",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1349"
   },
   {
     "channel_id": "202",
     "serial_no": "202",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.epg.best/in/AndPictures.in.png",
-    "channel_name": "IN | & Pictures HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66181"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CINEMAX",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1351"
   },
   {
     "channel_id": "203",
     "serial_no": "203",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.epg.best/in/AndPictures.in.png",
-    "channel_name": "IN | & Pictures [FHD]",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66183"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RTP INT",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1375"
   },
   {
     "channel_id": "204",
     "serial_no": "204",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png",
-    "channel_name": "IN | ZEE CINEMA FHD (TATASKY)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=221261"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "TV GLOBO INT",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1381"
   },
   {
     "channel_id": "205",
     "serial_no": "205",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png",
-    "channel_name": "IN | ZEE CINEMA HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206307"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "TV RECORD INT",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1384"
   },
   {
     "channel_id": "206",
     "serial_no": "206",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png",
-    "channel_name": "IN | ZEE CINEMA [FHD]",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206308"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "TV INT",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1385"
   },
   {
     "channel_id": "207",
     "serial_no": "207",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png",
-    "channel_name": "IND: Zee Cinema USA",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206268"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "SPORTING TV",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1398"
   },
   {
     "channel_id": "208",
     "serial_no": "208",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg",
-    "channel_name": "IN: Dhamaka Movies B4U",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66184"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CINE MUNDO",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1404"
   },
   {
     "channel_id": "209",
     "serial_no": "209",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://tvwish.com/img/channel/35.jpg",
-    "channel_name": "IN: Oscar Movies",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66185"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "TV CINE1",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1421"
   },
   {
     "channel_id": "210",
     "serial_no": "210",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://i.imgur.com/f8LVeMG.png",
-    "channel_name": "IN: STAR GOLD ROMANCE",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66186"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "TV CINE2",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1420"
   },
   {
     "channel_id": "211",
     "serial_no": "211",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",
-    "channel_name": "IN: COLORS CINEPLEX",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=104191"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "TV CINE3",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1416"
   },
   {
     "channel_id": "212",
     "serial_no": "212",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",
-    "channel_name": "IN: COLORS CINEPLEX FHD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206310"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "TV CINE4",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1417"
   },
   {
     "channel_id": "213",
     "serial_no": "213",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.epg.best/in/SonyMax.in.png",
-    "channel_name": "IN | Sony Max (TATAPLAY)",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=221259"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ABC KSTP MIN",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1460"
   },
   {
     "channel_id": "214",
     "serial_no": "214",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.epg.best/in/SonyMax.in.png",
-    "channel_name": "IN | Sony Max HD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66179"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ABC WRTV IND",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1475"
   },
   {
     "channel_id": "215",
     "serial_no": "215",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.epg.best/in/SonyMax.in.png",
-    "channel_name": "IN | Sony Max [FHD]",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66180"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "CBS WCCO MIN 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1497"
   },
   {
     "channel_id": "216",
     "serial_no": "216",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.epg.best/in/SonyMax2.in.png",
-    "channel_name": "IN | SONY MAX 2",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66189"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "FOX KMSP MIN 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1516"
   },
   {
     "channel_id": "217",
     "serial_no": "217",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.epg.best/in/ZeeAnmolCinema.in.png",
-    "channel_name": "IN | Zee Anmol Cinema",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66187"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "FOX WFTC MIN 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1528"
   },
   {
     "channel_id": "218",
     "serial_no": "218",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Classic.jpg/revision/latest/scale-to-width-down/270?cb=20200907154854",
-    "channel_name": "IN | ZEE CLASSIC",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=66201"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "FOX WXIX CIN 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1545"
   },
   {
     "channel_id": "219",
     "serial_no": "219",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://b1g.fun/logos2/b_flix.jpg",
-    "channel_name": "IN: Bflix Movies",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=104190"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NBC KARE MIN 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1546"
   },
   {
     "channel_id": "220",
     "serial_no": "220",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "http://b1g.fun/logos2/abzy_movies.jpg",
-    "channel_name": "IND: ABZY MOVIES",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=104200"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NBC KING SEA 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1552"
   },
   {
     "channel_id": "221",
     "serial_no": "221",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "IND: B4U Movies",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=104201"
+    "channel_name": "NBC WLWT CIN 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1575"
   },
   {
     "channel_id": "222",
     "serial_no": "222",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "http://b1g.fun/logos2/evergreen_classicsactive.jpg",
-    "channel_name": "IN | Evergreeen Classic",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=384600"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NBC WTHR IND 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1582"
   },
   {
     "channel_id": "223",
     "serial_no": "223",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "http://b1g.fun/logos2/enterr10_movies.jpg",
-    "channel_name": "IND: ENTER 10 Movies",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=104202"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NAT GEO 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1731"
   },
   {
     "channel_id": "224",
     "serial_no": "224",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg",
-    "channel_name": "IND: MANORANJAN MOVIES",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=104204"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NAT GEO WILD 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1732"
   },
   {
     "channel_id": "225",
     "serial_no": "225",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/a/a2/MahaMovie.png",
-    "channel_name": "IN | Maha Movies",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=104206"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ANIMAL PLANET 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1733"
   },
   {
     "channel_id": "226",
     "serial_no": "226",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.epg.best/in/WOWCinema.in.png",
-    "channel_name": "IN: WOW CINEMA ONE",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=106132"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "TLC 4K INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1735"
   },
   {
     "channel_id": "227",
     "serial_no": "227",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png",
-    "channel_name": "IN: |UK| ZEE CINEMA UK",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=112970"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "ZEE HINDUSTAN",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1740"
   },
   {
     "channel_id": "228",
     "serial_no": "228",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg/revision/latest?cb=20170820185540",
-    "channel_name": "IN: STAR UTSAV MOVIES",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=112971"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "INH 24X7",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1843"
   },
   {
     "channel_id": "229",
     "serial_no": "229",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "http://logo.opplextv.com/logo/goldmines.jpg",
-    "channel_name": "IN: GOLDMINES",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=112972"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "DD INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1774"
   },
   {
     "channel_id": "230",
     "serial_no": "230",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "http://logo.opplextv.com/logo/GOLDMINESBOLLYWOOD.png",
-    "channel_name": "IN: GOLDMINES BOLLYWOOD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=112973"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "INDTV USA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1909"
   },
   {
     "channel_id": "231",
     "serial_no": "231",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/d/dc/Colors-Cineplex-Bollywood.png",
-    "channel_name": "IND: Colors Cineplex Bollywood",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=112983"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "1ST INDIA NEWS",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=1913"
   },
   {
     "channel_id": "232",
     "serial_no": "232",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png",
-    "channel_name": "IN: MBC BOLLYWOOD*",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=112984"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "PEACE OF MIND HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2838"
   },
   {
     "channel_id": "233",
     "serial_no": "233",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
+    "channel_genre": "",
     "channel_logo": "",
-    "channel_name": "IN: GEM BOLLYWOOD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=112986"
+    "channel_name": "SRI VRINDAVAN DHAAM HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2836"
   },
   {
     "channel_id": "234",
     "serial_no": "234",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png",
-    "channel_name": "IND: Zee Cinema SD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206271"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "PRIME ASIA HD INDIA",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2682"
   },
   {
     "channel_id": "235",
     "serial_no": "235",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "https://www.dishtv.in/Images/Active-Services/CineActivelogo.png",
-    "channel_name": "IN: MOVIES ACTIVE FHD",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=206276"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "VOICE OF INDIA HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2407"
   },
   {
     "channel_id": "236",
     "serial_no": "236",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "http://logo.opplextv.com/logo/GOLDMINESbhojpuri.jpg",
-    "channel_name": "IND: GOLDMINES MOVIES",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=275337"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "SINGHNAAD TV HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2224"
   },
   {
     "channel_id": "237",
     "serial_no": "237",
     "tvg_language": "Hindi",
-    "channel_genre": "INDIAN | MOVIES",
-    "channel_logo": "http://b1g.fun/logos2/dhinchaak2.jpg",
-    "channel_name": "IND: DHINCHAAK",
-    "channel_url": "https://allinonereborn.com/op141.m3u8?id=374980"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "FRONTLINE HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2244"
   },
   {
     "channel_id": "238",
     "serial_no": "238",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
-    "channel_name": "SONY HD",
-    "channel_url": "https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MR SINGH HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2442"
   },
   {
     "channel_id": "239",
     "serial_no": "239",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
-    "channel_name": "SONY SAB HD",
-    "channel_url": "https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "JINDABAD TV HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2445"
   },
   {
     "channel_id": "240",
     "serial_no": "240",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",
-    "channel_name": "SONY PAL",
-    "channel_url": "https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "PPV BOXING HD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=339"
   },
   {
     "channel_id": "241",
     "serial_no": "241",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-    "channel_name": "SONY PIX HD",
-    "channel_url": "https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "PPV BOXING 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=341"
   },
   {
     "channel_id": "242",
     "serial_no": "242",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png",
-    "channel_name": "SONY MAX",
-    "channel_url": "https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NFL: CINCINNATI BENGALS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2634"
   },
   {
     "channel_id": "243",
     "serial_no": "243",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
-    "channel_name": "SONY MAX HD",
-    "channel_url": "https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NFL: ARIZONA CARDINALS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2639"
   },
   {
     "channel_id": "244",
     "serial_no": "244",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
-    "channel_name": "SONY MAX2",
-    "channel_url": "https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NFL: INDIANAPOLIS COLTS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2642"
   },
   {
     "channel_id": "245",
     "serial_no": "245",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",
-    "channel_name": "SONY WAH",
-    "channel_url": "https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NFL: MIAMI DOLPHINS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2644"
   },
   {
     "channel_id": "246",
     "serial_no": "246",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
-    "channel_name": "SONY TEN 1 HD",
-    "channel_url": "https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NFL: CAROLINA PANTHERS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2652"
   },
   {
     "channel_id": "247",
     "serial_no": "247",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
-    "channel_name": "SONY TEN 1",
-    "channel_url": "https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NFL: WASHINGTON COMMANDERS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2657"
   },
   {
     "channel_id": "248",
     "serial_no": "248",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",
-    "channel_name": "SONY TEN 2 HD",
-    "channel_url": "https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NFL: NEW ORLEANS SAINTS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2658"
   },
   {
     "channel_id": "249",
     "serial_no": "249",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",
-    "channel_name": "SONY TEN 2",
-    "channel_url": "https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NFL: MINNESOTA VIKINGS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2724"
   },
   {
     "channel_id": "250",
     "serial_no": "250",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",
-    "channel_name": "SONY TEN 3 HD",
-    "channel_url": "https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NBA: INDIANA PACERS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2078"
   },
   {
     "channel_id": "251",
     "serial_no": "251",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",
-    "channel_name": "SONY TEN 3",
-    "channel_url": "https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NBA: MINNESOTA TIMBERWOLVES 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2084"
   },
   {
     "channel_id": "252",
     "serial_no": "252",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SporStreamFlexTen4_HD_Logo_CLR.png",
-    "channel_name": "SONY TEN 4 HD",
-    "channel_url": "https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NBA: SACRAMENTO KINGS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2092"
   },
   {
     "channel_id": "253",
     "serial_no": "253",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SporStreamFlexTen4_HD_Logo_CLR.png",
-    "channel_name": "SONY TEN 4",
-    "channel_url": "https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NBA: WASHINGTON WIZARDS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2096"
   },
   {
     "channel_id": "254",
     "serial_no": "254",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SporStreamFlexTen5_HD_Logo_CLR.png",
-    "channel_name": "SONY TEN 5 HD",
-    "channel_url": "https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NHL: BOSTON BRUINS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2101"
   },
   {
     "channel_id": "255",
     "serial_no": "255",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SporStreamFlexTen5_HD_Logo_CLR.png",
-    "channel_name": "SONY TEN 5",
-    "channel_url": "https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NHL: CAROLINA HURRICANES 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2104"
   },
   {
     "channel_id": "256",
     "serial_no": "256",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
-    "channel_name": "SONY BBC EARTH HD",
-    "channel_url": "https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NHL: DETROIT RED WINGS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2109"
   },
   {
     "channel_id": "257",
     "serial_no": "257",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
-    "channel_name": "SONY YAY",
-    "channel_url": "https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NHL: ANGELES KINGS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2112"
   },
   {
     "channel_id": "258",
     "serial_no": "258",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
-    "channel_name": "SONY MARATHI",
-    "channel_url": "https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NHL: MINNESOTA WILD 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2113"
   },
   {
     "channel_id": "259",
     "serial_no": "259",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",
-    "channel_name": "SONY AATH",
-    "channel_url": "https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NHL: PITTSBURGH PENGUINS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2121"
   },
   {
     "channel_id": "260",
     "serial_no": "260",
     "tvg_language": "Hindi",
-    "channel_genre": "StreamFlex-JioTV SonyLIV",
-    "channel_logo": "https://c.evidon.com/pub_logos/2796-2021122219404475.png",
-    "channel_name": "SONY KAL",
-    "channel_url": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8"
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NHL: TAMPA BAY LIGHTNING",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2124"
+  },
+  {
+    "channel_id": "261",
+    "serial_no": "261",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NHL: WASHINGTON CAPITALS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2128"
+  },
+  {
+    "channel_id": "262",
+    "serial_no": "262",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NHL: WINNIPEG JETS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2129"
+  },
+  {
+    "channel_id": "263",
+    "serial_no": "263",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MLB: CINCINNATI REDS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2348"
+  },
+  {
+    "channel_id": "264",
+    "serial_no": "264",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MLB: CLEVELAND INDIANS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2349"
+  },
+  {
+    "channel_id": "265",
+    "serial_no": "265",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MLB: MIAMI MARLINS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2356"
+  },
+  {
+    "channel_id": "266",
+    "serial_no": "266",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MLB: MINNESOTA TWINS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2358"
+  },
+  {
+    "channel_id": "267",
+    "serial_no": "267",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MLB: SEATTLE MARINERS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2366"
+  },
+  {
+    "channel_id": "268",
+    "serial_no": "268",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MLB: ST LOUIS CARDINALS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2367"
+  },
+  {
+    "channel_id": "269",
+    "serial_no": "269",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "MLB: WASHINGTON NATIONALS 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2371"
+  },
+  {
+    "channel_id": "270",
+    "serial_no": "270",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "KING TV HD URDU",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2480"
+  },
+  {
+    "channel_id": "271",
+    "serial_no": "271",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "KING TV HD ENGLISH",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2481"
+  },
+  {
+    "channel_id": "272",
+    "serial_no": "272",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RMD: RELAXING 1 FHD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2777"
+  },
+  {
+    "channel_id": "273",
+    "serial_no": "273",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RMD: RELAXING 2 FHD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2780"
+  },
+  {
+    "channel_id": "274",
+    "serial_no": "274",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RMD: RELAXING 3 FHD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2781"
+  },
+  {
+    "channel_id": "275",
+    "serial_no": "275",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RMD: RELAXING 4 FHD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2783"
+  },
+  {
+    "channel_id": "276",
+    "serial_no": "276",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RMD: RELAXING 5 FHD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2785"
+  },
+  {
+    "channel_id": "277",
+    "serial_no": "277",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RMD: RELAXING 6 FHD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2788"
+  },
+  {
+    "channel_id": "278",
+    "serial_no": "278",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RMD: RELAXING 7 FHD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2789"
+  },
+  {
+    "channel_id": "279",
+    "serial_no": "279",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RMD: RELAXING 8 FHD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2791"
+  },
+  {
+    "channel_id": "280",
+    "serial_no": "280",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RMD: RELAXING 9 FHD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2792"
+  },
+  {
+    "channel_id": "281",
+    "serial_no": "281",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RMD: RELAXING 10 FHD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2798"
+  },
+  {
+    "channel_id": "282",
+    "serial_no": "282",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RMD: RELAXING 11 FHD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2799"
+  },
+  {
+    "channel_id": "283",
+    "serial_no": "283",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RMD: TAMEER E MADINA FHD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2782"
+  },
+  {
+    "channel_id": "284",
+    "serial_no": "284",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RMD: RAMZAN-AIN-QURAAN SINDHI FHD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2800"
+  },
+  {
+    "channel_id": "285",
+    "serial_no": "285",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "RMD: JALAL AL DIN URDU FHD",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2797"
+  },
+  {
+    "channel_id": "286",
+    "serial_no": "286",
+    "tvg_language": "Hindi",
+    "channel_genre": "",
+    "channel_logo": "",
+    "channel_name": "NBC SPORTS WASHINGTON 4K",
+    "channel_url": "https://rkcdigital.com.np/jiobe/jitendraunatti.php?id=2418"
   }
 ]
